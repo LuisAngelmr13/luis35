@@ -1,0 +1,51 @@
+.body{
+    display: flex;
+}
+.primero{
+    border: solid 1px red  ;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center ;
+}
+.segundo{
+    border:solid 2px blue;
+    height: 25%;
+    width: 25%;
+    
+}
+.nieto{
+    border: solid 2px black;
+    height: 30%;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center ;
+}
+.primero2{
+    border: solid 1px purple;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+.segundoRet{
+    border:solid 2px green;
+    height: 25%;
+    width: 25%;
+
+}
+.nieta{
+    border: solid 2px rgb(158, 74, 158);
+    height: 30%;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center ;
+}
